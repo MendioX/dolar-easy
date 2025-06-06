@@ -1,0 +1,15 @@
+{
+    "name": "Dolar Spyle",
+    "version": "1.0.0",
+    "description": "Dolar Spyle",
+    "manifest_version": 3,
+    "author": "Nahuel Mendiolar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Spyle USD"
+    },
+    "icons": {
+        "48": "dollar48.png"
+         
+    }
+}

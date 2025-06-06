@@ -1,0 +1,13 @@
+body{
+
+    background-color: transparent;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+}
+
+#main-container{
+    
+    height: 400px;
+    width: 300px;
+}
