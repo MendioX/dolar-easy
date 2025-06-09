@@ -23,6 +23,7 @@ let of_venta = document.getElementById("of-venta")
 fetch("https://dolarapi.com/v1/dolares")
   .then(response => response.json())
   .then(data => {
+
     
     of_compra.textContent = "$"+data[0].compra
     of_venta.textContent = "$"+data[0].venta
