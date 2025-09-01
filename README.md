@@ -25,9 +25,6 @@ Inicia el navegador Google Chrome.
 Accede a la página de extensiones
 En la barra de direcciones, ingresa:
 
-arduino
-Copiar
-Editar
 chrome://extensions/
 También puedes acceder desde el menú:
 
