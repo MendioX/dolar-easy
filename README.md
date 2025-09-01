@@ -14,13 +14,10 @@ Sigue estos pasos para instalar la extensión manualmente en tu navegador Google
 1. **Clona o descarga este repositorio**  
    Puedes clonarlo con Git o descargar el archivo `.zip` y descomprimirlo en una carpeta local.
 
-<img width="1092" height="568" alt="image" src="https://github.com/user-attachments/assets/8be6a850-4409-453d-b586-9d89ea0fb09d" />
-
-
    ```bash
    git clone https://github.com/MendioX/dolar-easy.git
 
-
+<img width="1092" height="568" alt="image" src="https://github.com/user-attachments/assets/8be6a850-4409-453d-b586-9d89ea0fb09d" />
 
 Abre Google Chrome
 Inicia el navegador Google Chrome.
